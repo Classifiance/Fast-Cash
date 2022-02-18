@@ -1,0 +1,28 @@
+img
+{
+
+width: 500px;
+    height:300 px;
+
+
+}
+
+
+body
+{
+	background-color: black;
+}
+
+h1{
+
+	color: white;
+}
+.proute
+{ 
+	position: absolute;
+
+	top: 50em;
+left: 40em;
+right: 65em
+;
+}
