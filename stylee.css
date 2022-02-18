@@ -1,0 +1,193 @@
+
+/*nouveauté*/
+body
+{
+background-color:#708090;
+
+padding-left:17em;
+}
+
+
+h2{
+    position: relative;
+
+    left: 10em;
+
+    color: #FFE4B5;
+}
+
+
+h1  {
+
+font-size:160%;
+
+color:#FF1493;
+
+
+}
+
+.courbe img {
+    
+position: absolute;
+
+right: 2em;
+left: 70em;
+top: 1em;
+
+
+width: 500px;
+height: 300px;
+
+
+}
+
+
+/*tu peux te contenter de ça, 
+mais attention à ne pas oublier les ; après chaque caracteristique donné*/
+
+
+
+
+.nav1 { 
+position: absolute;
+
+ top: 4em;
+
+ left: 0em; 
+
+ width: 17em;
+
+ top: 2em; 
+
+}
+
+
+
+
+.nav1 li  {
+margin: 2em;
+padding: 0.2em;
+background-color:white;
+}
+
+.nav1 li a
+{
+font-size: 140%;
+color: black;
+}
+
+.Jules{
+
+position: relative;
+    right: 0em;
+
+    left: 30em;
+
+   top: 1em;
+
+}
+
+.Gautier{
+
+position: absolute;
+
+top: 14em;
+
+
+}
+
+
+.inscription
+
+{ 
+    color: #FFE4B5;
+font-weight: normal;
+}
+
+
+
+.inscription2
+{
+
+    
+    color: red;
+
+}
+
+img
+{
+
+    width: 300x;
+    height: 200px;
+
+}
+
+
+.piscine{
+
+
+right: 0em;
+
+top: 80em;
+    position: absolute;
+left: 55em;
+
+
+}
+
+.port{
+
+    position: absolute;
+
+    top: 80em;
+
+    left: 7em;
+
+    right: 60em;
+}
+
+
+.ski{
+
+    position: absolute;
+
+    top: 110em;
+
+    left: 7em;
+
+    right: 60em;
+
+}
+
+.Thomas{
+
+
+    right: 0em;
+
+top: 110em;
+    position: absolute;
+left: 55em;
+}
+
+
+
+
+.contacte
+{
+position: absolute;
+top: 140em;
+left: 0em;
+
+    
+}
+.contacte li {
+
+    font-size: 150%;
+
+}
+.ski img {
+    width: 300px;
+    height: 200px;
+}
+
+
